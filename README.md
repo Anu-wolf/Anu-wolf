@@ -11,8 +11,21 @@
 
 ---
 
-### 🔥 Tech & Learning
-- 🌱 I'm continuously learning and growing in **Machine Learning**, **Artificial Intelligence**, and **Software Development**.
+### 💻 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px" alt="Programming GIF">
+</p>
+
+- 👨‍💻 **Languages**: Java, Python, C, C++
+- 🤖 **Passionate about**: Machine Learning, Artificial Intelligence, and Software Development
 
 ---
 
@@ -33,21 +46,24 @@
 
 ---
 
-### 💻 Coding and Development!
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Animation">
-- **Currently working on some cool projects!**
+### 🖥️ Machine Learning Love
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400px" alt="Machine Learning GIF">
+</p>
 
 ---
 
 ### 🏎️ Formula One Passion!
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400px" alt="Formula One Car">
-- **Huge F1 fan! Always ready for race weekends!**
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400px" alt="Formula One Car">
+</p>
 
 ---
 
 ### ✨ Stay Tuned for More!
-
-<img src="https://media.giphy.com/media/3o7TKqoANytApslTe0/giphy.gif" width="400px" alt="Text Animation">
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKqoANytApslTe0/giphy.gif" width="400px" alt="Text Animation">
+</p>
 
 ---
 
