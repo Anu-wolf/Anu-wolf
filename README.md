@@ -33,9 +33,21 @@
 
 ---
 
+### 💻 Coding and Development!
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding Animation">
+- **Currently working on some cool projects!**
+
+---
+
 ### 🏎️ Formula One Passion!
-<img src="https://media.giphy.com/media/3o85xGRWMlHdGB1vMs/giphy.gif" width="400px" alt="Formula One Car">
-- **I’m a huge F1 fan!**
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400px" alt="Formula One Car">
+- **Huge F1 fan! Always ready for race weekends!**
+
+---
+
+### ✨ Stay Tuned for More!
+
+<img src="https://media.giphy.com/media/3o7TKqoANytApslTe0/giphy.gif" width="400px" alt="Text Animation">
 
 ---
 
